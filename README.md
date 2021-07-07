@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## If you're interested in Making Operating System in C# please don't miss my branch (fork?)
-[![MOSA-Project](https://github-readme-stats.vercel.app/api/pin/?username=nifanfa&repo=MOSA-Core)](https://github.com/nifanfa/Core)
+[![MOSA-Project](https://github-readme-stats.vercel.app/api/pin/?username=nifanfa&repo=MOSA-Core)](https://github.com/nifanfa/MOSA-Core)
 
 <!--
 **nifanfa/nifanfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
