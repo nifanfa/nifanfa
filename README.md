@@ -2,5 +2,5 @@
 # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: )
 #
 ![MOSA](https://github.com/nifanfa/nifanfa/blob/main/MOSA.svg)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nifanfa&repo=MOSA-Core)](https://github.com/nifanfa/MOSA-Core)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nifanfa&repo=Solution1)](https://github.com/nifanfa/Solution1)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nifanfa)](https://github.com/anuraghazra/github-readme-stats)
