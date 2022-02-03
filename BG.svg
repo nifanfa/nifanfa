@@ -1,0 +1,17 @@
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+<foreignObject width="100" height="100">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="jumbotron">
+        <style>
+                    .jumbotron {
+                    background: #7014e8;
+                    background-image: url(https://dotnet.microsoft.com/ static/images/redesign/home-hero-bg.png);
+                    background-image: url(https://dotnet.microsoft.com/static/images/redesign/home-hero-bg.svg);
+                    background-image: url(https://dotnet.microsoft.com/static/images/redesign/home-hero-bg.svg),linear-gradient(180deg,#7014e8 30.12%,#0e5ecf 192.47%);
+                    margin: 0;
+                    padding: 0;
+                    }
+                </style>
+        <!-- Other embed HTML element/text into SVG -->
+    </div>
+</foreignObject>
+</svg>
