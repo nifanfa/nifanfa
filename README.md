@@ -7,4 +7,4 @@ You can build and run whatever you want in **pure C#**, completely independent o
 **Tip:** *[BootTo.NET](https://github.com/nifanfa/BootTo.NET)* features a conservative GC implementation, setting it apart from toy projects like Cosmos or MOSA.
 
 ## Other project:
-[IL2LLVM](https://github.com/nifanfa/IL2LLVM) - Translates managed assemblies (built with this repo's CoreLib) into native object files through LLVM. Supports universal architectures and enables full-spectrum development for both user-space and kernel-space.
+[IL2LLVM](https://github.com/nifanfa/IL2LLVM) - Translates managed assemblies (built with its CoreLib) into native object files through LLVM. Supports universal architectures and enables full-spectrum development for both user-space and kernel-space.
